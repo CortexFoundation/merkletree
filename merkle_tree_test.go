@@ -20,8 +20,9 @@ package merkletree
 
 import (
 	"bytes"
-	"github.com/CortexFoundation/CortexTheseus/common"
 	"testing"
+
+	"github.com/CortexFoundation/CortexTheseus/common"
 )
 
 var (
