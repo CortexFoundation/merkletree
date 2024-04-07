@@ -114,4 +114,6 @@ func TestMerkleTree_AddNode(t *testing.T) {
 	//	t.Log(t_add.String())
 	//print2DUtil(t_add.Root, 0)
 	//	print2DUtil(t_rebuild.Root, 0)
+	t_rebuild.Purge()
+	t_add.Purge()
 }

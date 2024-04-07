@@ -1,6 +1,6 @@
 module github.com/CortexFoundation/merkletree
 
-go 1.19
+go 1.22
 
 require (
 	github.com/CortexFoundation/CortexTheseus v1.10.17
